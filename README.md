@@ -11,11 +11,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am an ML Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am an ML Research Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working in NLP, Computer Vision and Reinforcement Learning.
+- 🔭 I’m working on Diffusion Models, NLP and Reinforcement Learning.
 - 🧑‍🎓 I’m studying B.Tech Computer Science and Engineering at Indian Institute of Technology, Indore.
-- 🌱 Exploring Generative Models.
+- 🌱 I have created SSD-1B, SegMoE, AuraFace and several other models.
 - ⚡ In my free time I watch tech videos and read ML articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Yatharth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yatharth-gupta-012177228/)
 
