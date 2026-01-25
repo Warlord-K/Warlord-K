@@ -1,49 +1,61 @@
+<p align="center">
+  <a href="https://yatharth.ai"><img src="https://img.shields.io/badge/Portfolio-yatharth.ai-blue?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/yatharth-g/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/Warlord-K"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
+</p>
+
+# Hey, I'm Yatharth 👋
+
+**Infrastructure Engineer at [Fal](https://fal.ai)** · Building the fastest inference platform for generative AI
+
+CS Graduate from **IIT Indore** (9.16 CPI) · Previously ML Research at Segmind
+
+---
+
+## What I'm Working On
+
+- 🖥️ **GPU Fleet Management**; Owning Fal Compute and managing infrastructure at scale
+- 🚀 **[App Files](https://docs.fal.ai/serverless/development/app-files)**; Built the file system feature for Fal's serverless platform
+- 🔧 **ML Infrastructure**; Deployed 30+ models, optimized inference pipelines
+
+## Notable Work
+
+| Project | Impact |
+|---------|--------|
+| **[SSD-1B](https://huggingface.co/segmind/SSD-1B)** | Distilled SDXL to 50% size with better quality · **2M+ downloads** |
+| **[SegMoE](https://huggingface.co/blog/segmoe)** | Mixture-of-Experts for diffusion models without training |
+| **[Distill SD](https://huggingface.co/blog/sd_distillation)** | Shrunk SD 1.5 to half size while improving quality |
+
+## Past Highlights
+
+- 🏆 **Inter IIT Tech Meet**; Contingent Leader for IIT Indore, managed 90+ people across 15 problem statements, 4 podium finishes
+- 🤖 **President of Cynaptics**; Led IIT Indore's ML club, organized workshops, built the community
+- 📄 **Published Research**; RL-based control systems at SAE Conference
+- 🎤 **PyTorch Conference SF 2025**; Represented Fal
+
+## Tech Stack
+
+**ML/AI**
+PyTorch · TensorFlow · Diffusers · Transformers · CUDA · Triton
+
+
+
+**Infrastructure**
+Kubernetes · Terraform · AWS · GCP · Docker · ArgoCD
+
+
+
+**Development**
+Python · TypeScript · FastAPI · React · Next.js · PostgreSQL
+
+
+
+---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yatharth-gupta-012177228/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Warlord-K&label=Profile%20views&color=0e75b6&style=flat" alt="Warlord-K"></p>
-
-<h1 align="center">Hi, I'm Yatharth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
-<p align="center"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/></p> 
-
-### :man_technologist: &nbsp;About Me :
-
-I am an ML Research Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- 🔭 I’m working on Diffusion Models, NLP and Reinforcement Learning.
-- 🧑‍🎓 I’m studying B.Tech Computer Science and Engineering at Indian Institute of Technology, Indore.
-- 🌱 I have created SSD-1B, SegMoE, AuraFace and several other models.
-- ⚡ In my free time I watch tech videos and read ML articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Yatharth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yatharth-gupta-012177228/)
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Warlord-K&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
----
-
-### 🔥 &nbsp; My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Warlord-K&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warlord-K&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+<p align="center">
+  <a href="https://yatharth.ai">yatharth.ai</a> · Building at the intersection of AI and infrastructure
+</p>
