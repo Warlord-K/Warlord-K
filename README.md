@@ -18,7 +18,7 @@ CS Graduate from **IIT Indore** (9.16 CPI) · Previously ML Research at Segmind
 - 🚀 **[App Files](https://docs.fal.ai/serverless/development/app-files)**; Built the file system feature for Fal's serverless platform
 - 🔧 **ML Infrastructure**; Deployed 30+ models, optimized inference pipelines
 
-## Notable Work
+## Opensource Work
 
 | Project | Impact |
 |---------|--------|
